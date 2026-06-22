@@ -13,7 +13,6 @@ profile:
   image_circular: true
   more_info: >
     <p>sadsobr7@gmail.com</p>
-    <p>Moscow, Russia</p>
 
 selected_papers: true
 social: true

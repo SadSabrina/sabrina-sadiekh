@@ -12,7 +12,7 @@ cv:
   sections:
     Education:
       - institution: Higher School of Economics (HSE University)
-        location: Moscow, Russia
+
         url: https://www.hse.ru/en/
         area: Artificial Intelligence
         studyType: M.Sc.
@@ -55,7 +55,7 @@ cv:
 
       - company: HSE University
         position: Lecturer & Program Creator
-        location: Moscow, Russia
+
         start_date: 2024
         end_date: present
         highlights:
