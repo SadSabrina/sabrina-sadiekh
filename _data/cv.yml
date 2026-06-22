@@ -1,10 +1,7 @@
 cv:
   name: Sabrina Sadiekh
-  label: AI Researcher
   email: sadsobr7@gmail.com
-  location: Moscow, Russia
-  image: ""
-  summary: AI Researcher with a background in Mathematics and Artificial Intelligence, working in Explainable AI, Mechanistic Interpretability, and AI Safety. Author of publications at AAAI, ACL, and NeurIPS Workshop. Lecturer at HSE University. R&D Research Lead at HiveTrace.
+  website: https://sadsabrina.github.io/sabrina-sadiekh/
 
   social_networks:
     - network: GitHub
