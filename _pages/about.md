@@ -2,33 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  R&D Research Lead at <a href="https://hivetrace.io" target="_blank">HiveTrace</a> ·
+  Researcher at <a href="https://chirag-agarwall.github.io/team.html" target="_blank">AikyamLab</a> ·
+  Lecturer at <a href="https://www.hse.ru/en/" target="_blank">HSE University</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.png
+  image_circular: true
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>sadsobr7@gmail.com</p>
+    <p>Moscow, Russia</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an AI Researcher with a background in Mathematics, working on the internal structure of language models — how representations form, why they break, and what that reveals about their geometry and robustness.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research sits at the intersection of **Explainable AI**, **Mechanistic Interpretability**, and **AI Safety**. I am particularly interested in the linear representation hypothesis, sparse autoencoders, and how representation geometry connects to model behavior and vulnerability.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I collaborate with an international group at [AikyamLab](https://chirag-agarwall.github.io/team.html) on mechanistic interpretability and AI safety projects. I lead R&D research at HiveTrace, where I oversee a proposal-driven lab spanning three tracks: XAI in Security, AI Security, and AI Safety. I also teach M.Sc. courses at HSE University and created the first Russian-language [Explainable AI course](https://github.com/SadSabrina/explainable_AI_course) (600+ students).
+
+I write about XAI and interpretability on [Telegram](https://t.me/jdata_blog) and [Substack](https://sabrinasadiekh.substack.com).

@@ -1,14 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - SadSabrina
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - SadSabrina/explainable_AI_course
+  - SadSabrina/XAI-open_materials

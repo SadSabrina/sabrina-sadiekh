@@ -2,14 +2,31 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses and educational materials.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 4
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## HSE University (2024 – present)
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+- **Explainable AI** — M.Sc. seminar covering SHAP, LIME, PDP/ICE, CAMs, IG, LRP, DeepLIFT, probing methods, and mechanistic interpretability.
+- **Advanced ML Topics** — M.Sc. lecture course.
+- **Mathematics** — M.Sc. course.
 
-{% include courses.liquid %}
+---
+
+## Open Courses
+
+**Explainable AI Course** (Russian, 2024 – present)
+First Russian-language XAI course. 16 theoretical modules, 23 labs, 335 test problems. Covers SHAP, LIME, PDP, ICE, CAMs, IG, LRP, DeepLIFT, probing methods, and more.
+- 600+ students on [Stepik](https://stepik.org)
+- Open-source materials on [GitHub](https://github.com/SadSabrina/explainable_AI_course)
+
+**Mechanistic Interpretability Resource** (2024 – present)
+Mathematical exposition of key concepts in mechanistic interpretability, available on [GitHub](https://github.com/SadSabrina/XAI-open_materials).
+
+---
+
+## AI Education (EdTech) (2023 – 2024)
+
+Course developer and teaching assistant for Machine Learning and Audio Deep Learning courses.
