@@ -24,9 +24,9 @@ First Russian-language XAI course. 16 theoretical modules, 23 labs, 335 test pro
 - 600+ students on [Stepik](https://stepik.org)
 - Open-source materials on [GitHub](https://github.com/SadSabrina/explainable_AI_course)
 
-**Mechanistic Interpretability Resource** (2024 – present)
+**Open XAI tutorials Resource** (2024 – present)
 
-Mathematical exposition of key concepts in mechanistic interpretability, available on [GitHub](https://github.com/SadSabrina/XAI-open_materials).
+Mathematical exposition of key concepts in explainable AI mechanistic and  interpretability, available on [GitHub](https://github.com/SadSabrina/XAI-open_materials).
 
 ---
 

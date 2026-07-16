@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  R&D Research Lead at <a href="https://hivetrace.io" target="_blank">HiveTrace</a> ·
+  R&D Research Lead at <a href="https://hivetrace.ai" target="_blank">HiveTrace</a> ·
   Researcher at <a href="https://chirag-agarwall.github.io/team.html" target="_blank">AikyamLab</a> ·
   Lecturer at <a href="https://www.hse.ru/en/" target="_blank">HSE University</a>
 
