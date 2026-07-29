@@ -30,9 +30,9 @@ My research sits at the intersection of **Explainable AI**, **Mechanistic Interp
 
 I publish actively at ML and NLP venues; selected papers are below.
 
-#### Open materials
+#### Homines dum docent discunt
 
-I think interpretability should be reproducible and teachable, so a large part of my work is public:
+I have been trying to understand interpretability for three years now — and I think the best way to understand something is to try to explain it. I like to show the beauty of the field to others, so a significant part of my work is publicly available:
 
 - the first Russian-language [Explainable AI course](https://github.com/SadSabrina/explainable_AI_course) — 600+ students;
 - a [bank of open XAI tutorials](https://github.com/SadSabrina/XAI-open_materials) — hands-on and code-first, maintained since 2023;
