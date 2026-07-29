@@ -4,5 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - SadSabrina/explainable_AI_course
   - SadSabrina/XAI-open_materials
+  - SadSabrina/streamlit_XAI_table
+  - SadSabrina/explainable_AI_course
