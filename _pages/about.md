@@ -26,22 +26,23 @@ latest_posts:
 
 I am an AI researcher with a background in mathematics, working on the internal structure of language models — how representations form, why they break, and what that reveals about their geometry and robustness.
 
-My research sits at the intersection of **Explainable AI**, **Mechanistic Interpretability**, and **AI Safety**. Across all of it I keep asking the same question: what mathematical structures do models build inside themselves, and what do those structures tell us about how the models behave?
+My research sits at the intersection of **Explainable AI** and **Mechanistic Interpretability** and **AI Safety**. In my papers I try keep asking the same question: what mathematical structures do models build inside themselves, and what do those structures tell us about how the models behave?
 
 I publish actively at ML and NLP venues; selected papers are below.
 
-#### Homines dum docent discunt
+#### Open-source
+*Homines dum docent discunt, Seneca the Younger* 
 
 I have been trying to understand interpretability for three years now — and I think the best way to understand something is to try to explain it. I like to show the beauty of the field to others, so a significant part of my work is publicly available:
 
-- the first Russian-language [Explainable AI course](https://github.com/SadSabrina/explainable_AI_course) — 600+ students;
 - a [bank of open XAI tutorials](https://github.com/SadSabrina/XAI-open_materials) — hands-on and code-first, maintained since 2023;
+- the first Russian-language [Explainable AI course](https://github.com/SadSabrina/explainable_AI_course) — 600+ students;
 - an [interactive table of XAI frameworks](https://github.com/SadSabrina/streamlit_XAI_table) — a navigation map of the tooling landscape, kept up to date since 2023.
 
 #### Writing
 
 I write about XAI and interpretability on [Telegram](https://t.me/jdata_blog) in Russian, and recently started writing in English on [Substack](https://sabrinasadiekh.substack.com) and [Medium](https://medium.com/@sadsobr7).
 
-#### Affiliations
+#### Collaborations and main work 
 
-I collaborate with an international group at [AikyamLab](https://chirag-agarwall.github.io/team.html) on mechanistic interpretability and AI safety. I lead R&D research at [HiveTrace](https://hivetrace.ai), where I run a proposal-driven lab spanning three tracks — XAI in Security, AI Security, and AI Safety. I also teach M.Sc. courses at [HSE University](https://www.hse.ru/en/).
+I collaborate with an international group at [AikyamLab](https://chirag-agarwall.github.io/team.html) on mechanistic interpretability and AI safety. I teach M.Sc. courses at [HSE University](https://www.hse.ru/en/). I also lead R&D research at [HiveTrace](https://hivetrace.ai), where I run a proposal-driven lab spanning three tracks — XAI in Security, AI Security, and AI Safety. 
