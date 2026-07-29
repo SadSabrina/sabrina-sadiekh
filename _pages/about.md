@@ -47,6 +47,6 @@ I have been trying to understand interpretability since 2023. I think the best w
 
 I write about XAI and interpretability on [Telegram, ru](https://t.me/jdata_blog) in Russian, and recently started writing in English on [Substack](https://sabrinasadiekh.substack.com) and [Medium](https://medium.com/@sadsobr7).
 
-#### **Collaborations and main work **
+#### **Collaborations and work**
 
 I collaborate with an international group at [AikyamLab](https://chirag-agarwall.github.io/team.html) on mechanistic interpretability and AI safety. I teach M.Sc. courses at [HSE University](https://www.hse.ru/en/). I also lead R&D research at [HiveTrace](https://hivetrace.ai), where I run a proposal-driven lab spanning three tracks — XAI in Security, AI Security, and AI Safety. 
