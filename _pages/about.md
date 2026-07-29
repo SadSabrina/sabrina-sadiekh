@@ -49,4 +49,4 @@ I write about XAI and interpretability on [Telegram, ru](https://t.me/jdata_blog
 
 #### **Collaborations and work**
 
-I collaborate with an international group at [AikyamLab](https://chirag-agarwall.github.io/team.html) on mechanistic interpretability and AI safety. I teach M.Sc. courses at [HSE University](https://www.hse.ru/en/). I also lead R&D research at [HiveTrace](https://hivetrace.ai), where I run a proposal-driven lab spanning three tracks — XAI in Security, AI Security, and AI Safety. 
+I collaborate with an international group at [AikyamLab](https://chirag-agarwall.github.io/team.html) on mechanistic interpretability and AI safety. I teach M.Sc. courses at [HSE University](https://www.hse.ru/en/). I also lead R&D Lab at [HiveTrace](https://hivetrace.ai), where I run a proposal-driven lab spanning three tracks — XAI in Security, AI Security, and AI Safety. 
