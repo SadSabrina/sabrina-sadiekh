@@ -28,16 +28,21 @@ latest_posts:
 
 I am an AI researcher with a background in mathematics, working on the internal structure of language models — how representations form, why they break, and what that reveals about their geometry and robustness.
 
-My research lies at the intersection of **Explainable AI and Mechanistic Interpretability**, and I'm also interested in AI Safety. AI models are fascinating entities in our world, and if they get out of control, *I want to explain how and why*. This is my main motivation.
+My research lies at the intersection of **Explainable AI and Mechanistic Interpretability**, and I'm also interested in AI Safety. AI models are fascinating entities in our world, and if they get out of control, _I want to explain how and why_. This is my main motivation.
 
 In my papers I try keep asking the same question: what mathematical structures do models build inside themselves, and what do those structures tell us about how the models behave?
 
 I publish actively at ML and NLP venues; selected papers are below.
 
 #### **Open-source**
-*Homines dum docent discunt, Seneca the Younger* 
 
-I have been trying to understand interpretability since 2023. I think the best way to understand something is to try to explain it. I like to show the beauty of the field to others, so a significant part of my work is publicly available:
+_Homines dum docent discunt, Seneca the Younger_
+
+I have been trying to understand interpretability since 2023. I think the best way to understand something is to try to explain it. I like to show the beauty of the field to others, so a significant part of my work is publicly available.
+
+Together with co-founders, I recently launched [Open XAI Platform](https://open-xai-platform.web.app) — an educational platform for explainable AI.
+
+Other open materials:
 
 - a [bank of open XAI tutorials](https://github.com/SadSabrina/XAI-open_materials) — hands-on and code-first, maintained since 2023;
 - the first Russian-language [Explainable AI course](https://github.com/SadSabrina/explainable_AI_course) — 600+ students;
@@ -49,4 +54,4 @@ I write about XAI and interpretability on [Telegram, ru](https://t.me/jdata_blog
 
 #### **Collaborations and work**
 
-I collaborate with an international group at [AikyamLab](https://chirag-agarwall.github.io/team.html) on mechanistic interpretability and AI safety. I teach M.Sc. courses at [HSE University](https://www.hse.ru/en/). I also lead R&D Lab at [HiveTrace](https://hivetrace.ai), where I run a proposal-driven lab spanning three tracks — XAI in Security, AI Security, and AI Safety. 
+I collaborate with an international group at [AikyamLab](https://chirag-agarwall.github.io/team.html) on mechanistic interpretability and AI safety. I teach M.Sc. courses at [HSE University](https://www.hse.ru/en/). I also lead R&D Lab at [HiveTrace](https://hivetrace.ai), where I run a proposal-driven lab spanning three tracks — XAI in Security, AI Security, and AI Safety.
