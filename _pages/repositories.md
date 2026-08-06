@@ -7,41 +7,12 @@ nav: true
 nav_order: 4
 ---
 
-{% if site.data.repositories.github_users %}
+## Educational platforms
 
-## GitHub users
+- [Open XAI Platform](https://open-xai-platform.web.app) — educational platform for explainable AI (co-founder)
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
+## Open materials
 
----
-
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
-
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
-  </div>
-
----
-
-{% endfor %}
-{% endif %}
-{% endif %}
-
-{% if site.data.repositories.github_repos %}
-
-## GitHub Repositories
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
+- [XAI-open_materials](https://github.com/SadSabrina/XAI-open_materials) — bank of open XAI tutorials, hands-on and code-first, maintained since 2023
+- [streamlit_XAI_table](https://github.com/SadSabrina/streamlit_XAI_table) — interactive navigation map of the XAI tooling landscape, maintained since 2023
+- [explainable_AI_course](https://github.com/SadSabrina/explainable_AI_course) — first Russian-language XAI course, 600+ students
