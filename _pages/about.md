@@ -38,12 +38,9 @@ I publish actively at ML and NLP venues; selected papers are below.
 
 _Homines dum docent discunt, Seneca the Younger_
 
-I have been trying to understand interpretability since 2023. I think the best way to understand something is to try to explain it. I like to show the beauty of the field to others, so a significant part of my work is publicly available.
+I have been trying to understand interpretability since 2023. I think the best way to understand something is to try to explain it. I like to show the beauty of the field to others, so a significant part of my work is publicly available:
 
-Together with co-founders, I recently launched [Open XAI Platform](https://open-xai-platform.web.app) — an educational platform for explainable AI.
-
-Other open materials:
-
+- Co-founder of [Open XAI Platform](https://open-xai-platform.web.app) — an educational platform for explainable AI;
 - a [bank of open XAI tutorials](https://github.com/SadSabrina/XAI-open_materials) — hands-on and code-first, maintained since 2023;
 - the first Russian-language [Explainable AI course](https://github.com/SadSabrina/explainable_AI_course) — 600+ students;
 - an [interactive table of XAI frameworks](https://github.com/SadSabrina/streamlit_XAI_table) — a navigation map of the tooling landscape, kept up to date since 2023.
