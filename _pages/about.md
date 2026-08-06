@@ -28,10 +28,9 @@ latest_posts:
 
 I am an AI researcher with a background in mathematics, working on the internal structure of language models — how representations form, why they break, and what that reveals about their geometry and robustness.
 
-My research lies at the intersection of **Explainable AI and Mechanistic Interpretability and Mathematics**; selected papers are below. 
+My research lies at the intersection of **Explainable AI and Mechanistic Interpretability and Mathematics**; selected papers are below.
 
 AI models are fascinating entities in our world, and if they get out of control, _I want to explain how and why_. This is my main motivation.
-
 
 #### **Open-source**
 

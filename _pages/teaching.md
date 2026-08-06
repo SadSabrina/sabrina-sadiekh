@@ -26,7 +26,7 @@ First Russian-language XAI course. 16 theoretical modules, 23 labs, 335 test pro
 
 **Open XAI tutorials Resource** (2024 – present)
 
-Mathematical exposition of key concepts in explainable AI mechanistic and  interpretability, available on [GitHub](https://github.com/SadSabrina/XAI-open_materials).
+Mathematical exposition of key concepts in explainable AI mechanistic and interpretability, available on [GitHub](https://github.com/SadSabrina/XAI-open_materials).
 
 ---
 
