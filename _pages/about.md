@@ -41,7 +41,8 @@ I have been trying to understand interpretability since 2023. I think the best w
 - an [interactive table of XAI frameworks](https://github.com/SadSabrina/streamlit_XAI_table) — a navigation map of the tooling landscape, kept up to date since 2023.
 
 #### **AI Interpretability School**
-I co-founded the [AI Interpretability School](https://ai-interpretability.school/) together with Elena Ericheva — a  course, that teaches classic XAI and mechanistic interpretability as a single subject. 
+
+I co-founded the [AI Interpretability School](https://ai-interpretability.school/) together with Elena Ericheva — a course, that teaches classic XAI and mechanistic interpretability as a single subject.
 
 #### **Writing**
 
@@ -51,4 +52,4 @@ I write about XAI and interpretability on [Telegram, ru](https://t.me/jdata_blog
 
 I collaborate with an international group at [AikyamLab](https://chirag-agarwall.github.io/team.html) on mechanistic interpretability and AI safety. I teach M.Sc. courses at [HSE University](https://www.hse.ru/en/). I also lead R&D Lab at [HiveTrace](https://hivetrace.ai), where I run a proposal-driven lab spanning three tracks — XAI in Security, AI Security, and AI Safety.
 
-*AI models are fascinating entities in our world, and if they get out of control, _I want to explain how and why_. This is my main motivation. Feel free to contact me =)*
+_AI models are fascinating entities in our world, and if they get out of control, *I want to explain how and why*. This is my main motivation. Feel free to contact me =)_
